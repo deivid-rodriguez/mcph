@@ -1,7 +1,7 @@
 version: 2
 updates:
 - package-ecosystem: pip
-  versioning-strategy: increase-if-necessary
+  versioning-strategy: increase-if-necessarya
   directory: "/"
   schedule:
     interval: daily
