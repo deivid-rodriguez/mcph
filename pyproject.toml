@@ -41,7 +41,7 @@ python = "^3.8"
 pyyaml = "6.0"
 requests = ">=2.13"
 prettytable = "~3.4"
-typer = "~0.6"
+typer = "~0.7"
 omegaconf = "~2.2"
 
 structlog = "22.1.0"
